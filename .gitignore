@@ -1,0 +1,6 @@
+# image files
+*.png
+*.jpg
+
+#think stats code
+/thinkstats2_code/*
