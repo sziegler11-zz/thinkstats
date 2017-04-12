@@ -3,4 +3,4 @@
 *.jpg
 
 #think stats code
-/thinkstats2_code/*
+#/thinkstats2_code/*
